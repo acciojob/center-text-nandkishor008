@@ -1,6 +1,9 @@
 /*  your css code here. If applicable */
 *{
-	background-image:globalfocusmagazine.com/wp-content/uploads/2020/02/Engaging_with_technology-scaled.jpg?__cf_chl_tk=57YNZaB24XMQ6JRcbRAAYXr23hTvA8JYV6bhyBVsn6c-1791622250-1.0.1.1-AOKbNh6_CnNd6jIkiJPY.XhwvUmgMhYimWnYL7d7nEs;
+	background-image:https://www.globalfocusmagazine.com/wp-content/uploads/2020/02/Engaging_with_technology-scaled.jpg;
 	text-align:center;
+},
+#eg{
 	color:white
 }
+
